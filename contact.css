@@ -1,0 +1,54 @@
+body {
+	background: tan;
+}
+
+#section1 {
+background-color: tan;
+}
+
+#name {
+background-color: teal;
+color: white;
+padding: 10px;
+font-size: 15px;
+width: 20%;
+margin-left: 80px;
+text-align: center;
+}
+
+#links {
+	float: right;
+}
+
+#section2 {
+background-color: brown;
+	width: 70%;
+	border: 1px solid;
+	color: black;
+	float: left;
+	margin: 50px;
+}
+
+#contact {
+background-color: teal;
+color: white;
+padding: 10px;
+font-size: 15px;
+width: 20%;
+margin-left: 80px;
+text-align: center;
+}
+
+#connectwithme {
+	color: teal;
+	
+}
+
+#foot {
+	background-color: grey;
+	padding: 20px;
+	margin-top: 50%;
+	text-align: center;
+}
+
+

@@ -1,0 +1,103 @@
+body {
+	background: tan;
+}
+
+#div1 {
+	background-color: grey;
+	padding: 20px; 
+}
+
+#name {
+	background-color: teal;
+color: white;
+padding: 10px;
+font-size: 15px;
+width: 20%;
+margin-left: 80px;
+text-align: center;
+}
+
+.links {
+	float: right;
+}
+
+#port {
+background-color: teal;
+color: white;
+padding: 20px;
+font-size: 30px;
+width: 20%;
+margin-left: 80px;
+text-align: center;
+}
+
+#hangman {
+	background-color: black;
+	width: 200px;
+	height: 200px;
+	position: relative;
+
+}
+
+
+#man {
+	color: white;
+	background-color: teal;
+	bottom: 0;
+}
+
+#rpg {
+background-color: black;
+	width: 200px;
+	height: 200px;
+	position: relative;	
+}
+
+#Gamer {
+	color: white;
+	background-color: teal;
+	bottom: 0;
+}
+
+#trivia {
+background-color: black;
+	width: 200px;
+	height: 200px;	
+	position: relative;
+}
+
+#triv {
+	color: white;
+	background-color: teal;
+	bottom: 0;
+}
+
+#connectwithme {
+color: teal;
+}
+
+#section3 {
+	background-color: teal;
+color: white;
+padding: 10px;
+font-size: 15px;
+width: 20%;
+margin-left: 80px;
+text-align: center;
+}
+
+#foot {
+	background-color: grey;
+	padding: 20px;
+	margin-top: 50%;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
